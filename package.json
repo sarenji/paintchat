@@ -1,0 +1,22 @@
+{
+    "name": "paintchat"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.4.6"
+    , "coffeekup": ">= 0.3.1"
+    , "coffee-script": ">= 1.1.2"
+    , "stylus": ">= 0.17.0"
+    , "nib": ">= 0.2.0"
+    , "socket.io": "*"
+    , "glob": "*"
+  }
+  , "devDependencies": {
+      "should": "*"
+    , "mocha": "*"
+    , "jsdom": "*"
+  }
+  , "scripts": {
+      "test": "make test"
+  }
+}
