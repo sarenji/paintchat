@@ -13,8 +13,12 @@ $ make test
 
 With CoffeeScript:
 
-`$ coffee app.coffee`
+```
+$ coffee app.coffee
+```
 
 With Foreman:
 
-`$ foreman start`
+```
+$ foreman start
+```
