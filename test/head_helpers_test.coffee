@@ -2,7 +2,6 @@ coffeekup = require 'coffeekup'
 helpers   = require '../helpers'
 should    = require 'should'
 template  = ""
-html      = ""
 
 jsdom     = require 'jsdom'
 fs        = require 'fs'
